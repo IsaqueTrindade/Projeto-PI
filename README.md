@@ -1,3 +1,4 @@
-# Projeto-PI
-Este repositório é para o nosso projeto de pesquisa e inovação.
-Ele tem por finalidade evitar o prejuizo dentro de frigorificos que é causado por produtos que estragam devido a falta de controle de temperatura e umidade.
+# Projeto-PI - Piil RK solutions
+Esse é o repositório do nosso projeto do primeiro semestre.
+O Grupo é constituído por 6 pessoas onde o intuito é solucionar o 
+problema de estresse de vacas leiteiras por temperatura e umidade inadequada.
